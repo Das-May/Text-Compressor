@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hfmTree.txt</file>
+        <file>add_Icon.png</file>
+    </qresource>
+</RCC>
